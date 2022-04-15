@@ -1309,11 +1309,20 @@ audio {
     	}
     }*/
 
+@media only screen and (max-width: 860px) and (min-width: 320px)  {
+.cut_cake{
+
+	margin-left:-50%;
+	
+}
+
+}
+
 .cut_cake{
 	position:absolute;
 	display:none;
 	left:50%;
-	margin-left:-50%;
+	margin-left:-15%;
 	width:100%;
 	 height:100%;
 }
